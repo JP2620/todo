@@ -1,6 +1,7 @@
 # todo
 
-To run the app, execute the run.sh script.
+- To run the app, execute the run.sh script.
+- Create an user using postman.
 
 ## Dependencies
 
