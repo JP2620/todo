@@ -2,7 +2,7 @@
 
 - To run the app, execute the run.sh script.
 - Create an user using postman.
-- Deployed website: http://159.223.110.223/
+- Deployed website: http://jp2620.me/
 
 ## Dependencies
 
