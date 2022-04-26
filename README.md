@@ -2,7 +2,7 @@
 
 - To run the app, execute the run.sh script.
 - Create an user using postman.
-- Deployed website: http://jp2620.me/
+- Deployed website: http://todoapp.jp2620.me/
 
 ## Dependencies
 
